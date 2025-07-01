@@ -1,4 +1,0 @@
-[LocalizedFileNames]
-liver_cirrhosis_prediction.pkl=@liver_cirrhosis_prediction.pkl,0
-livercirrhosis1.pkl=@livercirrhosis1.pkl,0
-Liver_cirrhosis.ipynb=@Liver_cirrhosis.ipynb,0
